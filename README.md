@@ -66,8 +66,6 @@ The following screenshots shows the basic UI of the mobile application.
   <img src="/images/7.jpeg" alt="UI" width="200"/>
   <img src="/images/8.jpeg" alt="UI" width="200"/>
   <img src="/images/9.jpeg" alt="UI" width="200"/>
-  <img src="/images/10.jpeg" alt="UI" width="200"/>
-  <img src="/images/11.jpeg" alt="UI" width="200"/>
 </p>
 
 ### 📸 Example Prediction

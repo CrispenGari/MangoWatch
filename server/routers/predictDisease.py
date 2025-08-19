@@ -13,7 +13,7 @@ predictDiseaseRouter = APIRouter(prefix="/api/v1/mango")
 
 
 @predictDiseaseRouter.post("/predict")
-def predict_feces_(image: Annotated[bytes, File()]):
+def predict_mango_(image: Annotated[bytes, File()]):
     start = time.time()
     try:
         prediction = predict_disease(mobilenetv3, image, device=device)
